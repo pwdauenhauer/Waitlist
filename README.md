@@ -1,6 +1,6 @@
 # Waitlist
 
-This project adds songs to a specified spotify playlist via API calls. 
+This project adds songs to a specified spotify playlist via API calls. The playlist used for this project can be found at https://open.spotify.com/playlist/0d7uzo8caijsT9EaKsKCQS but eventually users will input or create desired playlists within the app
 
 The xxx.py file contains logic for searching any song's registered Spotify TrackID through a GET request, and then using that ID in a POST request to add to a given playlist.
 
