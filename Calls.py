@@ -2,7 +2,7 @@ from pip._vendor import requests
 import json
 import re
 
-#Authorization token generated manually from spotify API console
+#Authorization token generated manually from spotify API console - will retrieve from server.js in future
 currentAuth = 'BQCBiAHtAt6EIpczFzVK1_0iz-ANu_vHO3GV76G3o1P7SMXkFilzce9X5xXD2zyW91Y9Bc6xxnes4zmr_fRdqw6vlT9LGbnJw8EkRynmAtA1H-FeVp3zzq2j_--Nv1OewkEALP50kxLtKRemQ1Wcf6Ao5QBXl3gcijTA3nFBb6gQcgDXxQydhoeG7G-eaQ5sUUfO_qdjTr7U_1w4-ck'
 
 title1 = 'ignition'     #manual input of desired song addition
